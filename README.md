@@ -23,8 +23,10 @@ The materials are research drafts derived from the accompanying paper. Before fi
 
 ## Citation
 
-See `CITATION.cff` for a machine-readable citation record. The paper currently identifies its author as `[Your Name]`; update the authorship metadata before formal publication or citation.
+Gibrine, F. M. (2026). *Evaluating AI's role in public technology literacy in Ghana: A mixed-methods research protocol and conceptual framework* [Preprint]. ByteLine Technologies / Independent Researcher. https://donfahd.com/research
+
+See `CITATION.cff` for a machine-readable record.
 
 ## License
 
-The repository documentation is released under the Creative Commons Attribution 4.0 International license. Confirm that this reflects the rights holder's intent before reusing the paper or instruments.
+Documentation in this repository is released under the Creative Commons Attribution 4.0 International license.
