@@ -1,5 +1,9 @@
 # References
 
+## Canonical manuscript
+
+- Gibrine, F. M. (2026, September 27). *Evaluating AI's Role in Public Technology Literacy in Ghana: A Mixed-Methods Research Protocol and Conceptual Framework* [Preprint]. The canonical PDF is available in `paper/AI_Public_Tech_Literacy_Ghana.pdf`.
+
 - Cyber Security Authority, Ghana. (2025). *National Cyber Security Awareness Month: Building a Safe, Informed, and Accountable Digital Space.* https://ncsam.csa.gov.gh/
 - Computing Education Research. (n.d.). *AI in schools in the UK and Ghana.* https://computingeducationresearch.org/projects/ai-in-schools-in-the-uk-and-ghana/
 - Ghana Fact. (2025, August 8). *Cyber Security Authority steps up fight against online misinformation and deepfakes.* https://ghanafact.com/cyber-security-authority-steps-up-fight-against-online-misinformation-deepfakes/

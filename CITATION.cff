@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this research package, please cite it as below."
-title: "AI Public Technology Literacy Ghana"
-abstract: "Research paper and study materials for evaluating the role of artificial intelligence in public technology literacy in Ghana."
-type: dataset
+title: "Evaluating AI's Role in Public Technology Literacy in Ghana"
+abstract: "A mixed-methods research protocol and conceptual framework for evaluating whether AI-supported digital-literacy training improves public technology literacy in Ghana. No participant results are reported in this preprint."
+type: article
 authors:
-  - name: "Fahad Mohammed"
+  - family-names: "Gibrine"
+    given-names: "Fahad Mohammed"
 version: "0.1.0"
 date-released: 2026-09-27
 repository-code: "https://github.com/faculty12000/ai-public-tech-literacy-ghana"

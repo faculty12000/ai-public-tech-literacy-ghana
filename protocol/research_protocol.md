@@ -1,5 +1,9 @@
 # Research Protocol
 
+## Status
+
+This repository implements the study package for the canonical preprint, *Evaluating AI's Role in Public Technology Literacy in Ghana: A Mixed-Methods Research Protocol and Conceptual Framework*, by Fahad Mohammed Gibrine. It is a protocol and conceptual framework, not a report of participant results. Before recruitment, finalise ethics review, sample-size justification, allocation procedures, preregistration, and pilot testing.
+
 ## Title
 
 Evaluating Artificial Intelligence and Public Technology Literacy in Ghana
