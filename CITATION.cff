@@ -4,24 +4,16 @@ title: "Evaluating AI's Role in Public Technology Literacy in Ghana"
 abstract: "A mixed-methods research protocol and conceptual framework evaluating whether AI-supported digital-literacy training can improve public technology literacy in Ghana."
 type: article
 authors:
-<<<<<<< HEAD
-  - name: "Fahad Mohammed"
-version: "0.1.0"
-=======
   - family-names: Gibrine
     given-names: Fahad Mohammed
     email: faculty12000@gmail.com
     affiliation: "Technology & Cybersecurity Consultant (Contract), ByteLine Technologies, Ghana; Independent Researcher"
     website: "https://donfahd.com/research"
 version: "1.0"
->>>>>>> c514662 (docs: use the AfricArXiv preprint as the canonical paper)
 date-released: 2026-09-27
 url: "https://donfahd.com/research"
 repository-code: "https://github.com/faculty12000/ai-public-tech-literacy-ghana"
 license: "CC-BY-4.0"
-<<<<<<< HEAD
-
-=======
 preferred-citation:
   type: article
   title: "Evaluating AI's Role in Public Technology Literacy in Ghana: A Mixed-Methods Research Protocol and Conceptual Framework"
@@ -32,4 +24,3 @@ preferred-citation:
   month: 9
   notes: "AfricArXiv preprint. Research protocol/conceptual framework; no participant results. Not peer reviewed."
   url: "https://donfahd.com/research"
->>>>>>> c514662 (docs: use the AfricArXiv preprint as the canonical paper)
