@@ -23,8 +23,10 @@ The preprint is a research protocol and conceptual framework; it reports no part
 
 ## Citation
 
-See `CITATION.cff` for a machine-readable citation record. The paper is authored by Fahad Mohammed Gibrine.
+Gibrine, F. M. (2026). *Evaluating AI's role in public technology literacy in Ghana: A mixed-methods research protocol and conceptual framework* [Preprint]. ByteLine Technologies / Independent Researcher. https://donfahd.com/research
+
+See `CITATION.cff` for a machine-readable record.
 
 ## License
 
-The repository documentation is released under the Creative Commons Attribution 4.0 International license. Confirm that this reflects the rights holder's intent before reusing the paper or instruments.
+Documentation in this repository is released under the Creative Commons Attribution 4.0 International license.

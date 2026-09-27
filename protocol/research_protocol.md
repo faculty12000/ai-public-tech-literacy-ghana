@@ -8,6 +8,13 @@ This repository implements the study package for the canonical preprint, *Evalua
 
 Evaluating Artificial Intelligence and Public Technology Literacy in Ghana
 
+## Investigator
+
+Fahad Mohammed Gibrine  
+Technology & Cybersecurity Consultant (Contract), ByteLine Technologies, Ghana  
+Independent Researcher  
+faculty12000@gmail.com · https://donfahd.com/research
+
 ## Background
 
 Ghana's mobile-first digital adoption has expanded access to services and information, but use of technology does not necessarily indicate the ability to judge AI output, protect personal information, recognise scams, or seek human review of an automated decision. This study evaluates whether AI-supported learning builds these capabilities more effectively than conventional digital-literacy training.
